@@ -49,6 +49,7 @@ This repository documents my journey into cybersecurity, tracking progress, reso
 - [Coursera - Introduction to Cyber Security Specialization](https://www.coursera.org/specializations/intro-cyber-security)
 - [edX - Cybersecurity Fundamentals](https://www.edx.org/professional-certificate/uwashingtonx-essentials-cybersecurity)
 - [SANS Cyber Aces](https://www.cyberaces.org/) - Free online courses
+- [Cisco Networking](https://www.netacad.com/career-paths/network-technician?courseLang=es-XL) - Network Technician
 
 ### Books
 - **"The Web Application Hacker's Handbook"** by Dafydd Stuttard and Marcus Pinto
